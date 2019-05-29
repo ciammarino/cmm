@@ -1,0 +1,55 @@
+body{
+    margin:15px;
+    font-size: 16px;
+}
+.helloworld{
+    text-align: center;
+    margin:auto;
+}
+.world{
+    color:#ffffff;
+    background-color:#000000;
+}
+
+
+.friend-container{
+    margin:auto;
+    text-align: center;
+}
+
+.ray{
+    font-size: 2.65em;
+    margin:20px 0;
+    padding:13px;
+    color:#f71f1f;
+    background-color: #f8b9b9;
+}
+.oscar{
+    font-size: 1em;
+    margin:10px 0;
+    padding:6px 10px;
+    color:#cf620f;
+    background-color:  #f2b46f;
+}
+.gwen{
+    font-size:3.75em;
+    margin:8px 0;
+    padding:15px;
+    color:#9EE493;
+    background-color: #11742c;
+}
+.bob{
+    font-size:.7em;
+    margin:4px 0;
+    padding:9px;
+    color:#2F69BB;
+    background-color: #A1C6EA;
+}
+.marie{
+    font-size:1.8em;
+    margin:11 0;
+    padding:9px;
+    color:#930064;
+    background-color: #f8a9ed;
+}
+
